@@ -19,4 +19,4 @@ jobs:
       - name: Test with pytest
         run: |
           cd PythonWorkshop
-          pyhton3 test_solver.py
+          pyhton3 test-solver.py
